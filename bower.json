@@ -1,0 +1,17 @@
+{
+    "name": "trocchi-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/trocchi-bower.git"
+    },
+    "description": "Trocchi font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
